@@ -1,0 +1,3 @@
+localhost: is online
+8.8.8.8: is online
+does-not-exist: is online
